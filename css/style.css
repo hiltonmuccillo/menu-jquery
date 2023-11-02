@@ -42,7 +42,7 @@ ul li.toggle {
 }
 
 .content {
-  display: block;
+  display: none;
   color: #fff;
   font-weight: normal;
   background-color: #0d6efd;

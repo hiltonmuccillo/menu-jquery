@@ -1,5 +1,4 @@
 $(function(){
-  $("ul.content").hide();
   $('ul.navigation li.toggle').bind("click", function(){
     $(this).toggleClass("bg-blue");
     $(this).siblings().removeClass("bg-blue");
